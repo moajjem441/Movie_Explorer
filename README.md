@@ -221,23 +221,6 @@ Through this project, I practiced:
 
 ---
 
-## 📸 Screenshots
-
-### Home Page
-
-![Home Page](./screenshots/home.png)
-
-### Movies Page
-
-![Movies Page](./screenshots/movies.png)
-
-### Details Modal
-
-![Details Modal](./screenshots/details-modal.png)
-
-> Add your actual screenshots inside a `screenshots` folder.
-
----
 
 ## 👨‍💻 Author
 
