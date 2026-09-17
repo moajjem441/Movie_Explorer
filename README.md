@@ -4,11 +4,11 @@ A responsive Movie Explorer web application built with **React** and the **TVMaz
 
 ## 🚀 Live Demo
 
-🔗 **Live Site:** [Add your live deployment link here]
+🔗 **Live Site:** [Movie Explorer](https://movie-explorer-zeta-six.vercel.app/)
 
 ## 📂 Repository
 
-🔗 **GitHub:** [Add your GitHub repository link here]
+🔗 **GitHub:** [Movie Explorer Repository](https://github.com/moajjem441/Movie_Explorer)
 
 ---
 
