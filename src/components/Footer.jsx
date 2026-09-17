@@ -21,7 +21,7 @@ const Footer = () => {
             TVMaze API
           </a>
           <a
-            href="https://github.com"
+            href="https://github.com/moajjem441"
             target="_blank"
             rel="noopener noreferrer"
             className="footer-link"
