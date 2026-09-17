@@ -245,13 +245,9 @@ Through this project, I practiced:
 
 CSE Student | Software Engineering
 
-* GitHub: [Your GitHub Profile]
-* LinkedIn: [Your LinkedIn Profile]
+* GitHub: [Movie Explorer Repository](https://github.com/moajjem441/Movie_Explorer)
+
+*
 
 ---
 
-## 📄 License
-
-This project is created for educational and assignment purposes.
-
-© 2026 MovieExplorer
